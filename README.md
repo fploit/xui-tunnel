@@ -27,10 +27,10 @@ sudo apt install openssh screen -y
 <br>
 2- set admin bot telegram user id, admin username, server name and server limits in ```xui_bot/config.json```
 <br>
-3- set server1 (ir) ip, port, username, password and server2 (eu) ip, port in servers.json
+3- set server1 (ir) ip, port, username, password and server2 (eu) ip, port in ```servers.json```
 
 ### run server1
-<p>upload xui_tunnel in server1 and:</p>
+upload xui_tunnel in server1 and:
 ```sh
 cd xui_tunnel
 
@@ -38,7 +38,7 @@ screen flask run --host=IP
 ```
 
 ### run server2
-<p>upload xui_bot in server2 and:</p>
+upload xui_bot in server2 and:
 ```sh
 cd xui_bot
 
