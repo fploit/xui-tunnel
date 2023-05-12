@@ -23,7 +23,7 @@ sudo apt install openssh screen -y
 <p>Set ssh keys for ssh connection from server1 (tunnel server) to server2 (xui panel server) without needing a password</p>
 
 ### edit files
-1- edit telegram bot token in ```xui_bot/bot.py''' line 11
+1- edit telegram bot token in ```xui_bot/bot.py``` line 11
 <br>
 2- set admin bot telegram user id, admin username, server name and server limits in ```xui_bot/config.json```
 <br>
