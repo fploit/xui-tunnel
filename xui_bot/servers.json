@@ -1,0 +1,10 @@
+{
+    "list": ["holand"],
+    "holand": {
+        "eu": "5.45.68.3",
+        "eu_port": "8888",
+        "ir": "92.119.57.11",
+        "username": "zzzzzzz",
+        "password": "zzzzzzz"
+    }
+}
